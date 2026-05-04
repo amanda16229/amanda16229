@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="www.linkedin.com/in/amanda-johnston-ba8277289"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/amanda-johnston-ba8277289" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/amanda-johnston-ba8277289"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/amanda-johnston-ba8277289" alt="LinkedIn Badge"></a>
 </p>
 
 <h2>
