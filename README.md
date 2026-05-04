@@ -1,4 +1,8 @@
-## Hi there 👋
+# :desert_island: Amanda Johnston
+**`Senior Computer Science Student`**
+
+Hello! I am a current Senior studying Computer Science at University. In my free time I am practicing software development through programming projects and learning cybersecurity
+with building my home lab. I also compete in cybersecurity competitions at the University level to learn more about the field.
 
 <!--
 **amanda16229/amanda16229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
