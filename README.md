@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE31F7&width=435&lines=Hello!+%F0%9F%91%8B;I'm+Amanda+Johnston" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E324F7&width=435&lines=Hello!+%F0%9F%91%8B;I'm+Amanda+Johnston" alt="Typing SVG" /></a>
 **`Senior Computer Science Student`**
 
 I am a current Senior studying Computer Science at University. In my free time I am practicing software development through programming projects and learning cybersecurity
