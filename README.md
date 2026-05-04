@@ -1,7 +1,7 @@
-# :desert_island: Amanda Johnston
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello! :wave:;I'm Amanda Johnston)](https://git.io/typing-svg)
 **`Senior Computer Science Student`**
 
-Hello! I am a current Senior studying Computer Science at University. In my free time I am practicing software development through programming projects and learning cybersecurity
+I am a current Senior studying Computer Science at University. In my free time I am practicing software development through programming projects and learning cybersecurity
 with building my home lab. I also compete in cybersecurity competitions at the University level to learn more about the field.
 
 <!--
